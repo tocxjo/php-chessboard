@@ -3,7 +3,7 @@
 	<body>
 		<table width="400px" border="1px" cellspacing="0px">
 <?php
-echo "BOLAS";
+echo "chess!";
 $value = 0;
 
 for ($col = 0;$col < 8;$col++)
